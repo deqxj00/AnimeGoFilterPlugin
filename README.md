@@ -1,9 +1,12 @@
 关联项目
 
-本体:   [AnimeGo](https://github.com/wetor/AnimeGo)
+AnimeGo本体:   [AnimeGo](https://github.com/wetor/AnimeGo)
+
+AnimeGo过滤插件:   [AnimeGoFilterPlugin](https://github.com/deqxj00/AnimeGoFilterPlugin)
 
 Tampermonkey插件:   [AnimeGoHelper\[Mikan快速订阅\]](https://greasyfork.org/zh-CN/scripts/449596) 
 
+AnimeGo过滤插件 和 Tampermonkey插件需要配套使用
 
 ------------------------
 
@@ -15,5 +18,5 @@ Tampermonkey插件:   [AnimeGoHelper\[Mikan快速订阅\]](https://greasyfork.or
 
 2.网页筛选规则导出需要配合Tampermonkey插件使用 
 
-3.导出规则到AnimeGo就行
+3.过滤规则同步到AnimeGo就行
 
