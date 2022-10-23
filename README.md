@@ -13,7 +13,7 @@ AnimeGo过滤插件 和 Tampermonkey插件需要配套使用
 1.使用前复制到AnimeGo中plugin目录下，并在config下animego.yaml文件中修改插件路径以及名字
 ```
   filter:
-    javascript: plugin/filter/AnimeGoHelperParser.js
+    javascript: plugin/filter/AnimeGoHelperParser/AnimeGoHelperParser.js
 ```
 
 2.网页筛选规则导出需要配合Tampermonkey插件使用 
