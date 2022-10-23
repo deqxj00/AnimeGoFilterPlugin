@@ -76,7 +76,7 @@ function getIsPush(value, key,titlename) {
 function main(argv) {
     resultIndex = []
 
-    var jsonstr = os.readFile(os.getPwd() + '/data/plugin/filter/AnimeGoHelperParser.json')
+    var jsonstr = os.readFile(os.getPwd() + '/AnimeGoHelperParser.json')
     var myFiliters = JSON.parse(jsonstr, reviver);
     var isNeedGetMikanInfo = false;
 
