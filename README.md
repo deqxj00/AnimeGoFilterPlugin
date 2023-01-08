@@ -2,7 +2,7 @@
 
 AnimeGo本体:   [AnimeGo](https://github.com/wetor/AnimeGo)
 
-AnimeGo过滤插件:   [AnimeGoFilterPlugin](https://github.com/deqxj00/AnimeGoFilterPlugin)
+AnimeGo过滤插件(这是放AnimeGO本体的插件里的 已经自带了):   [AnimeGoFilterPlugin](https://github.com/deqxj00/AnimeGoFilterPlugin)
 
 Tampermonkey插件:   [AnimeGoHelper\[Mikan快速订阅\]](https://greasyfork.org/zh-CN/scripts/449596) 
 
